@@ -3,8 +3,8 @@
       {
          "currentVersion":"1.0",
          "newVersion":"2.0",
-         "newVersionAvailability":"not available",
-         "newVersionDescription":"New version of MyEQuran is not available."
+         "newVersionAvailability":"available",
+         "newVersionDescription":"New version of MyEQuran is available. Please visit website to get the latest version of this software."
       }
    ]
 }
